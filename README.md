@@ -1,47 +1,41 @@
+# Nexia
 
+This project utilizes Gatsby which is a React-based open source framework for creating websites and apps at lightning speed. I found this appropriate for an e-commerce store so the image load speed is snappy and user friendly.
 
+## Built with
+- [Gatsby](https://www.gatsbyjs.com/) - The React-based framework used
+- [React](https://reactjs.org/) - The JavaScript framework used
+- [GraphQL](https://graphql.org/) - The JavaScript framework used
+- [SCSS](https://sass-lang.com/) - CSS Pre-Processor
 
-<h1>Nexia</h1>
-<hr/>
+### Inital Figma Design
+[https://dribbble.com/shots/14501070-Nexia-Ecom-Website](https://dribbble.com/shots/14501070-Nexia-Ecom-Website)
 
+### Hosted with netlify
 
-<h4>Inital Figma Design:</h4>
+[**NEXIA**](https://5fb03cab6c153b0007df3017--jovial-edison-56bea8.netlify.app/)
 
-https://dribbble.com/shots/14501070-Nexia-Ecom-Website
-
-<h4></h4>
-
-
-
-<h2>Getting Started</h2>
-<hr/>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-<h3>Prerequisites</h3>
-What things you need to install the software and how to install them
-
--npm
+## Prerequisties
+Make sure you have npm installed.
+```bash
 npm install npm@latest -g
+```
 
-<h3>Installing</h3>
+## Installing
+
 1. Clone the repo
-git clone https://github.com/AlanBayWalker/space-xplorer.git
+```python
+git clone https://github.com/SaxonJude/Nexia.git
+```
 2. Run npm install inside project root
+```python
 npm install
-3. Start the server
+```
+3. Run the script
+```python
 npm run start
-4. Have a look around!
-Enjoy :)
+```
+4. Have fun!
 
-<h2>Built With</h2>
-<hr />
-<ul>
-  <li><a href="https://reactjs.org/">Gatsby</a> - The React-based framework used</li>
-  <li><a href="https://reactjs.org/">React</a> - The JavaScript framework used</li>
-  <li><a href="https://sass-lang.com/">GraphQL</a> - Data query / Manipulation language for API's</li>
-  <li><a href="https://sass-lang.com/">Axios</a> - Promise based HTTP client for the browser and Node.Js</li>
-  <li><a href="https://sass-lang.com/">SCSS</a> - CSS Pre-Processor</li>
-  <li></li>
-</ul>
-
-<h2>Contributers</h2>
+## Contributors
+- Saxon Du Plooy - [Portfolio](https://choosealicense.com/licenses/mit/)
